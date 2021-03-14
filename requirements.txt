@@ -3,3 +3,4 @@ selenium
 Pillow
 numpy
 opencv-python
+libvirt-python
